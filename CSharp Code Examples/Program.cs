@@ -6,3 +6,5 @@
 HelloLincoln.run();
 
 ProteinCalcWeight.run();
+
+ProteinCalcCalories.run();
